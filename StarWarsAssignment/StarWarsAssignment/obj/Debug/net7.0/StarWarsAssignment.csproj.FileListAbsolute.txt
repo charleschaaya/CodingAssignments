@@ -1,0 +1,15 @@
+C:\Users\Tingles\source\repos\StarWarsAssignment\StarWarsAssignment\bin\Debug\net7.0\StarWarsAssignment.exe
+C:\Users\Tingles\source\repos\StarWarsAssignment\StarWarsAssignment\bin\Debug\net7.0\StarWarsAssignment.deps.json
+C:\Users\Tingles\source\repos\StarWarsAssignment\StarWarsAssignment\bin\Debug\net7.0\StarWarsAssignment.runtimeconfig.json
+C:\Users\Tingles\source\repos\StarWarsAssignment\StarWarsAssignment\bin\Debug\net7.0\StarWarsAssignment.dll
+C:\Users\Tingles\source\repos\StarWarsAssignment\StarWarsAssignment\bin\Debug\net7.0\StarWarsAssignment.pdb
+C:\Users\Tingles\source\repos\StarWarsAssignment\StarWarsAssignment\obj\Debug\net7.0\StarWarsAssignment.csproj.AssemblyReference.cache
+C:\Users\Tingles\source\repos\StarWarsAssignment\StarWarsAssignment\obj\Debug\net7.0\StarWarsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tingles\source\repos\StarWarsAssignment\StarWarsAssignment\obj\Debug\net7.0\StarWarsAssignment.AssemblyInfoInputs.cache
+C:\Users\Tingles\source\repos\StarWarsAssignment\StarWarsAssignment\obj\Debug\net7.0\StarWarsAssignment.AssemblyInfo.cs
+C:\Users\Tingles\source\repos\StarWarsAssignment\StarWarsAssignment\obj\Debug\net7.0\StarWarsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Tingles\source\repos\StarWarsAssignment\StarWarsAssignment\obj\Debug\net7.0\StarWarsAssignment.dll
+C:\Users\Tingles\source\repos\StarWarsAssignment\StarWarsAssignment\obj\Debug\net7.0\refint\StarWarsAssignment.dll
+C:\Users\Tingles\source\repos\StarWarsAssignment\StarWarsAssignment\obj\Debug\net7.0\StarWarsAssignment.pdb
+C:\Users\Tingles\source\repos\StarWarsAssignment\StarWarsAssignment\obj\Debug\net7.0\StarWarsAssignment.genruntimeconfig.cache
+C:\Users\Tingles\source\repos\StarWarsAssignment\StarWarsAssignment\obj\Debug\net7.0\ref\StarWarsAssignment.dll
